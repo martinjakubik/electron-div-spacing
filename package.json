@@ -1,0 +1,11 @@
+{
+  "name": "electrondivspacing",
+  "version": "1.0.0",
+  "description": "checks div spacing in electron html render",
+  "main": "main.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
