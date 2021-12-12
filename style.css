@@ -1,9 +1,6 @@
-div {
-    white-space : nowrap; 
-    overflow : hidden;
-}
-
 div>div {
-    background-color: gray;
     display: inline-block;
+    height: 24px;
+    width: 24px;
+    background-color: gray;
 }
